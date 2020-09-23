@@ -5,10 +5,18 @@ body {
 	font-family: 'Roboto', sans-serif;
 }
 h1 {
+	padding-top: 20px;
 	padding-bottom: 15px;
 }
 h2 {
 	font-size: 1.1em;
 	font-style: italic;
 	padding-bottom: 15px;
+	color: #778ca3;
 }
+.content {
+		padding: 2% 30%;
+}
+/*.content {
+	padding-left: 30%;
+}*/
