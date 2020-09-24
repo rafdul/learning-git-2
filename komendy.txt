@@ -1,3 +1,10 @@
+***autoprefixer-CLI***
 autoprefixer-cli -o style.prefixed.css style.css
 
+
+***html-validate***
 html-validate *.html
+(np. można wpisać konkretny plik np. index.html)
+
+***Browser-sync***
+node_modules/.bin/browser-sync start --server --files "css/*.css" "*.html"
