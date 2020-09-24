@@ -12,10 +12,12 @@ h2 {
 	font-size: 1em;
 	font-style: italic;
 	padding-bottom: 15px;
-	color: #273c75;
+	color: #ee5253;
+	display: flex;
 }
 .content {
 		padding: 3% 30%;
+		flex: 1;
 }
 /*.content {
 	padding-left: 30%;
