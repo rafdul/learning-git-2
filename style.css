@@ -26,3 +26,7 @@ h2 {
 .main {
 	color: blue;
 }
+
+.italic {
+	font-style: italic;
+}
