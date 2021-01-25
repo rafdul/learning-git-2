@@ -22,3 +22,11 @@ h2 {
 /*.content {
 	padding-left: 30%;
 }*/
+
+.main {
+	color: blue;
+}
+
+.italic {
+	font-style: italic;
+}
